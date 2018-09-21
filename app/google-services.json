@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145420531664",
+    "firebase_url": "https://uploadretrieve-391d2.firebaseio.com",
+    "project_id": "uploadretrieve-391d2",
+    "storage_bucket": "uploadretrieve-391d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145420531664:android:0d7b8cd0a5af4b1d",
+        "android_client_info": {
+          "package_name": "com.hackbvp.android.uploadretrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145420531664-00o35il920u6831c5pjoa3ui4evlm3mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackbvp.android.uploadretrieve",
+            "certificate_hash": "c9fc66eef37fa782edc52f7a39ea3515e4e04769"
+          }
+        },
+        {
+          "client_id": "145420531664-ai02piec1q728echp3qvc4tqc02jo7qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-F5UOXRC6A8q-yTSCMKIl5Drj_IrqcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145420531664-ai02piec1q728echp3qvc4tqc02jo7qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
